@@ -1,0 +1,8 @@
+{
+  "attribute.name.armor_weight.encumbrance": "Encumbrance",
+  "command.armor_weight.check.self": "Current Encumbrance: %s %s (Speed: -%s%%, Jump: -%s%%)",
+  "command.armor_weight.check.target": "[%s] Encumbrance: %s %s (Speed: -%s%%, Jump: -%s%%)",
+  "command.armor_weight.check.details": "Breakdown: Armor Defense: %s, Toughness: %s",
+  "hud.armor_weight.display": "%s %s (-%s%%)",
+  "hud.armor_weight.display_no_penalty": "%s %s"
+}

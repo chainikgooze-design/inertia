@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Run directory
+run/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project private
+Будучие фичи(добавить в гитигнор и не читать агентам).txt

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="armor_weight"
+version="1.0.0"
+displayName="Armor Weight"
+authors="Minechainix"
+description='''Modular equipment encumbrance system with architectural foundation for movement inertia.'''
+
+[[dependencies.armor_weight]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.84,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.armor_weight]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
